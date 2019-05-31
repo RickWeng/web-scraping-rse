@@ -6,3 +6,4 @@ first author
 author    
 year    
 since 2000    
+In setting, change ROBOTSTXT_OBEY to False    
