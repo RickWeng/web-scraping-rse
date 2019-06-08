@@ -1,5 +1,5 @@
 # 50 Years 50 Prolific Authors in Remote Sensing of Environment
-In terms of impact factor, Remote Sensing of Environment has been consistently ranked as NO.1 remote sensing journal over the past decade. I wrote a spider to crawl its website and extract all available author information. Web scrapying code can be found in this [folder](https://github.com/RickWeng/web-scraping-rse/tree/master/rse). Please click [here]() to view the data processing code. 
+In terms of impact factor, Remote Sensing of Environment has been consistently ranked as NO.1 remote sensing journal over the past decade. I wrote a spider to crawl its website and extract all available author information. Web scrapying code can be found in this [folder](https://github.com/RickWeng/web-scraping-rse/tree/master/rse). Please click [here](https://nbviewer.jupyter.org/github/RickWeng/web-scraping-rse/blob/master/50years50authors-rse.ipynb) to view the data processing code. 
 ## Web Scrapying
 https://www.sciencedirect.com/journal/remote-sensing-of-environment/issues contains information of issues from 1969 to 2019. 
 By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 231 (in progress 15 September 2019).
