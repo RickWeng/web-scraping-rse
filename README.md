@@ -20,6 +20,7 @@ By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 23
 ### Top 50 Prolific Authors in Remote Sensing Environment (1969 - 2019)
 ![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-author.png)
 ### Top 50 Prolific Authors in Remote Sensing of Environment Over the Past Decade (2010 - 2019)
+The figure was sorted in descending order by the total number of publications over the past decade.
 ![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-author-1019.png)
 ### Top 50 Prolific First Authors in Remote Sensing Environment (1969 - 2019)
 ![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-first-author.png)
