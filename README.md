@@ -17,9 +17,10 @@ sudo chmod +x /usr/local/bin/geckodriver
 ```
 * In settings.py, change `ROBOTSTXT_OBEY = True` to `ROBOTSTXT_OBEY = False`
 ## Results
+Since for each article only five authors at most are available on their website, it should be noted that only the first three authors were considered in the analysis.
 ### Top 50 Prolific Authors in Remote Sensing Environment (1969 - 2019)
 ![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-author.png)
-### Top 50 Prolific First Authors in Remote Sensing Environment (1969 - 2019)
-![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-first-author.png)
 ### Top 50 Prolific Authors in Remote Sensing of Environment Over the Past Decade (2010 - 2019)
 ![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-author-1019.png)
+### Top 50 Prolific First Authors in Remote Sensing Environment (1969 - 2019)
+![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-first-author.png)
