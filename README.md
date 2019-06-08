@@ -16,7 +16,7 @@ sudo chmod +x /usr/local/bin/geckodriver
 ```
 * In settings.py, change `ROBOTSTXT_OBEY = True` to `ROBOTSTXT_OBEY = False`
 ## Results
-By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 231 (in progress 15 September 2019). Information of around 7000 papers was extracted. Since for each article only five authors at most are available on their website, it should be noted that only the first three authors were considered in the analysis.
+By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 231 (in progress 15 September 2019). Information of around 7000 papers was extracted. It should be noted that only the first three authors were considered in the analysis since for each article only five authors at most are available on their website, .
 ### Top 50 Prolific Authors in Remote Sensing Environment (1969 - 2019)
 ![](https://github.com/RickWeng/web-scraping-rse/blob/master/figures/top-50-author.png)
 ### Top 50 Prolific Authors in Remote Sensing of Environment Over the Past Decade (2010 - 2019)
