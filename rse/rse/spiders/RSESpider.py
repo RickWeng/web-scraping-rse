@@ -70,7 +70,3 @@ class RSESpider(scrapy.Spider):
             }
 
 # run in terminal: scrapy runspider rse/spiders/RSESpider.py  -o result.csv
-
-
-
-
