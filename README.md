@@ -3,8 +3,8 @@ In terms of impact factor, Remote Sensing of Environment has been consistently r
 ## Web Scrapying
 https://www.sciencedirect.com/journal/remote-sensing-of-environment/issues contains information of issues from 1969 to 2019. 
 `Scrapy` web scrapying framework and `Selenium` package in Python were used to extract data from the journal web. `Selenium` was used to automatically click each button to show the hidden urls.   
-![](https://github.com/RickWeng/web-scraping-rse/blob/master/scrapylogo.png)
-![](https://github.com/RickWeng/web-scraping-rse/blob/master/seleniumlogo.png)
+![](https://github.com/RickWeng/web-scraping-rse/blob/master/scrapylogo.png)    
+![](https://github.com/RickWeng/web-scraping-rse/blob/master/seleniumlogo.png)    
 Some prerequisites were listed below:   
 * run in terminal: 
 ```
