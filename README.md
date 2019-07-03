@@ -16,7 +16,9 @@ pip3 install scrapy selenium
 sudo cp geckodriver's position /usr/local/bin
 sudo chmod +x /usr/local/bin/geckodriver
 ```
-* In settings.py, change `ROBOTSTXT_OBEY = True` to `ROBOTSTXT_OBEY = False`
+* In settings.py, change `ROBOTSTXT_OBEY = True` to `ROBOTSTXT_OBEY = False`    
+
+All other codes are available in this [folder](https://github.com/RickWeng/web-scraping-rse/tree/master/rse).   
 ## Results
 By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 231 (in progress 15 September 2019). Information of around 7000 papers was extracted. It should be noted that only the first three authors were considered in the analysis since for each article only five authors at most are available on their website, .
 ### Top 50 Prolific Authors in Remote Sensing Environment (1969 - 2019)
