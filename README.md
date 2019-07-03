@@ -20,7 +20,7 @@ sudo chmod +x /usr/local/bin/geckodriver
 
 All codes are available in this [folder](https://github.com/RickWeng/web-scraping-rse/tree/master/rse).   
 ## Results
-By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 231 (in progress 15 September 2019). Information of around 7000 papers was extracted. It should be noted that only the first three authors were considered in the analysis since for each article only five authors at most are available on their website. "min" rank method (i.e. rank the dataframe by minimum rank if 2 or more values are found to be the same) was used so top 50 authors may have more than 50 authors. For example:   ]
+By the date (Jun 6th 2019) of web scraping, the most recent volume was Volume 231 (in progress 15 September 2019). Information of around 7000 papers was extracted. It should be noted that only the first three authors were considered in the analysis since for each article only five authors at most are available on their website. "min" rank method (i.e. rank the dataframe by minimum rank if 2 or more values are found to be the same) was used so top 50 authors may have more than 50 authors. For example:   
 
 | Author | Num_Publications | Rank |
 |:------:|:----------------:|:----:|
